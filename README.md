@@ -21,5 +21,5 @@ Their main task is to **protect the scientists** from Class-D personnel and othe
 - Compile the plugin into a `.dll` file using **Visual Studio** with EXILED 9.5.0 dependencies.
 
 ### 2️⃣ Place the Plugin in the Server Directory
-- Move the compiled `.dll` file to:
+- Move the compiled `.dll` file to: plugins
 
